@@ -55,6 +55,24 @@ body{
   letter-spacing: 0.8px;
 }
 
+.contact{
+  text-align:center;
+  margin-bottom: 28px;
+}
+
+.contact a{
+  color: var(--sidebarText);
+  font-weight: 300;
+  font-size: 14px;
+  letter-spacing: 0.4px;
+  border-bottom: none;
+  opacity: 0.9;
+}
+
+.contact a:hover{
+  opacity: 0.7;
+}
+
 .nav{
   display: flex;
   flex-direction: column;
