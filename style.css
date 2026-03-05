@@ -137,12 +137,12 @@ body{
 /* Body text */
 
 .body-text{
-  font-weight: 200;
+  font-weight: 300;
   color: var(--black);
-  font-size: 19px;
-  line-height: 1.9;
+  font-size: 17px;
+  line-height: 1.7;
   max-width: 720px;
-  margin-bottom: 24px;
+  margin-bottom: 20px;
 }
 
 /* Main section titles */
