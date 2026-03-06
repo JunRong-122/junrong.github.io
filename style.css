@@ -31,7 +31,6 @@ body{
   width: 250px;
   background: var(--sidebar);
   padding: 30px 20px;
-  overflow-y: auto;
 }
 
 .profile{
