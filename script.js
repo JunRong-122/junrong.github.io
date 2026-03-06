@@ -20,3 +20,4 @@ const observer = new IntersectionObserver(
 );
 
 sections.forEach(section => observer.observe(section));
+links[0].classList.add("active");
